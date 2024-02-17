@@ -21,6 +21,10 @@ Data have three seprate file Books, Users, Ratings.
   * Books Dataset contain information about books such as booksname, ISBN number, author, image url etc.
   * Users dataset contain the information about users who read or bought the books like their ID, Age, Location.
   * Ratings Dataset contain information about the ratings given by the readers to a book like userID, ISBN, Ratings.
+    
+   #### Data File Links
+
+   [Dataset Link](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
 
 ### Model Used
 
